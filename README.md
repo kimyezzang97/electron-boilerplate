@@ -1,1 +1,2 @@
 # electron-boilerplate
+## npm init
